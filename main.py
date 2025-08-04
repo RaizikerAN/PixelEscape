@@ -1,4 +1,4 @@
-
+# LEIA O README ANTES DE INICIAR, É MUITO IMPORTANTE !!!
 import pygame
 import sys
 from classes.menu import Menu
